@@ -1,7 +1,12 @@
 package org.apache.cordova.notificationicon;
 
+<<<<<<< HEAD
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.PluginResult;
+=======
+import org.apache.cordova.api.CordovaPlugin;
+import org.apache.cordova.api.PluginResult;
+>>>>>>> bd6aef110af8ecd55e7f436ab4b6f5492f0c325d
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
